@@ -13,8 +13,7 @@
 - Member 2: Ansiya A P - Ilahia college of engineering and technology
 
 ### Hosted Project Link
-[](https://apansiya300-coder.github.io/Campus-lost-found/)
-[](https://apansiya300-coder.github.io/Campus-lost-found/)
+[link](https://apansiya300-coder.github.io/Campus-lost-found/)
 ### Project Description
 it is a application for reporting missing items from the campus
 
